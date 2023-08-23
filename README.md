@@ -29,15 +29,13 @@
 
 <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>&nbsp;
 
-<div align="center">
+<p align="center">
+<a href="https://github.com/YangSaekyul">
+  <img width="400em" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YangSaekyul&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img width="400em" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YangSaekyul&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=covetsky)](https://solved.ac/covetsky/)
 
-<a href="https://github.com/YangSaekyul">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YangSaekyul&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YangSaekyul&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYangSaekyul%2F&count_bg=%23F383FF&title_bg=%23A429F1&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-</div>
