@@ -43,7 +43,7 @@
 
 <div align="center">
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=covetsky)](https://solved.ac/covetsky/)
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=covetsky)](https://solved.ac/covetsky/) -->
 
 </div>
 
